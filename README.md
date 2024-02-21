@@ -1,6 +1,6 @@
 # The_Repository
 
-Group Members:
+Group Members:Gavin Wyant, Avinash Kottakota
 
 
 Project Description: 
